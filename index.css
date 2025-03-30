@@ -1,0 +1,116 @@
+.viewport-container{
+    background-image: url("side-view-salami-pizza-with-bell-pepper-tomatoes-olives-rolling-pin-with-flour.jpg");
+    height: 500px ;
+    width:auto;
+    background-size: cover;
+    object-fit: cover;
+}
+.hed{
+    text-align: center;
+    color: white;
+     padding-top: 20px;
+     font-size: 80px;
+     font-family: "roboto";
+}
+.home-page{
+    background-color: lightgreen;
+    width: auto;
+    height:140vh;
+}
+.home{
+    margin-top: 10px;
+    font-family: "roboto";
+    font-size: 45px;
+    padding-left: 10px;
+    border-color: black;
+    font-weight: bold;
+}
+.offer-card{
+    background-color:white;
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: inset;
+    margin:6px;
+    box-shadow: 5px 5px 5px 5px;
+}
+.span{
+    color: red;
+}
+.offer-card:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 4px 4px red;
+
+.btn{
+    background-color: red;
+    color: black;
+}
+}
+.img{
+    height:220px;
+    width: 250px;
+    text-align: center;
+    padding:10px;
+    margin-left: 10px;
+    border-radius:30px;
+}
+.para{
+    margin-left: 35px;
+}
+.spesaloffer{
+    display: flex;
+    flex-direction: row;
+}
+.btn{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    border-radius: 15px;
+    border-width: 0px;
+    margin-left: 35px;
+}
+.combo-page{
+    height: 111vh;
+    background-color: lightgreen;
+    width: auto;
+    margin-right: 10px;
+}
+.offer-card-combo{
+    background-color:white;
+    height: 300px;
+    width: 700px;
+    border-radius: 10px;
+    margin:6px;
+    box-shadow: 5px 5px 5px 5px;
+}
+.offer-card-combo:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 4px 4px red;
+
+.btn{
+    background-color: red;
+    color: black;
+}
+}
+.footer{
+    background-color:black;
+    color: white;
+    height:50vh;
+    width: auto;
+}
+.imgs{
+    height:250px;
+    width: 270px;
+    padding:10px;
+    margin-left: 10px;
+    border-radius: 15px;
+    
+}
+.offer{
+ color: green;
+ font-family: sans-serif;
+}
